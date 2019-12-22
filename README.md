@@ -1,4 +1,5 @@
 # FS19_BPG_driveDistance
+![DriveDistance Ingame](https://github.com/BlackyBPG/FS19_BPG_driveDistance/blob/master/logo_driveDistance.png "DriveDistance Logo")
 Mit dem Mod DriveDistance wird allen motorisierten Fahrzeugen ein Kilometerzähler für gefahrene Distanzen hinzugefügt. Es wird ein Tageskilometerzähler (TRIP) angezeigt ebenso wie ein Gesamtkilometerzähler (TOTAL) welche auch im Spielstand gespeichert wird.
 
 ------------
