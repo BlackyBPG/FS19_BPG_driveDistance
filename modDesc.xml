@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="46">
+	<author>Blacky_BPG</author>
+	<version>1.9.0.4</version>
+	<title>
+		<en>Drive distance counter</en>
+		<de>Kilometerzähler</de>
+	</title>
+
+	<description>
+		<en>Count the driven kilometers</en>
+		<de>Zählt die gefahrenen Kilometer</de>
+	</description>
+
+	<iconFilename>bpglogo.dds</iconFilename>
+	<multiplayer supported="true"/>
+
+	<extraSourceFiles>
+		<sourceFile filename="registerDriveDistance.lua" />
+	</extraSourceFiles>
+</modDesc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="46">
+	<author>Blacky_BPG</author>
+	<version>1.9.0.1</version>
+	<title>
+		<en>Drive distance counter</en>
+		<de>Kilometerzähler</de>
+	</title>
+
+	<description>
+		<en>Count the driven kilometers</en>
+		<de>Zählt die gefahrenen Kilometer</de>
+	</description>
+
+	<iconFilename>bpglogo.dds</iconFilename>
+	<multiplayer supported="true"/>
+
+	<extraSourceFiles>
+		<sourceFile filename="registerDriveDistance.lua" />
+	</extraSourceFiles>
+
+	<l10n>
+		<text name="bpgPageTitle"><en>Black Panther Group - options</en><de>Black Panther Group - Optionen</de></text>
+		<text name="driveDistanceTitle"><en>Drive distance display visible</en><de>Kilometerzähler sichtbar</de></text>
+		<text name="driveDistanceDesc"><en>Displays the drive distance under the vehicle hud</en><de>Zeigt die gefahrene Distanz unter dem Fahrzeughud an</de></text>
+	</l10n>
+</modDesc>
