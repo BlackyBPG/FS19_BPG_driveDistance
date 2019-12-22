@@ -26,9 +26,9 @@ Ab Version 1.9.0.4:
 
 ![DriveDistance Ingame](https://github.com/BlackyBPG/FS19_BPG_driveDistance/blob/master/bpg_driveDistance.png "DriveDistance Ingame")  ![DriveDistance Ingame](https://github.com/BlackyBPG/FS19_BPG_driveDistance/blob/master/bpg_driveDistance%2BEVM.png "DriveDistance Ingame+EMV")
 
+------------
 
-[========]
-
+------------
 
 #### CHANGELOG:
 
